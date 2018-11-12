@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Frisby</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sedes">Sedes</string>
+    <string name="Apartado">Apartado</string>
+    <string name="Bello">Bello</string>
+    <string name="Envigado">Envigado</string>
+    <string name="Itagui">Itagui</string>
+    <string name="Sabaneta">Sabaneta</string>
+    <string name="La_Estrella">La Estrella</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sedes">Sedes</string>
+    <string name="descripcion">Nadie lo hace como FRISBY lo hace</string>
+    <string name="mapa">Mapa</string>
+</resources>

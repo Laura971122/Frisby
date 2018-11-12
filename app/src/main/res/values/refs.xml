@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="frisbyApartado" />
+    <drawable name="frisbyBello" />
+    <drawable name="frisbyEnvigado" />
+    <drawable name="frisbyItagui" />
+    <drawable name="frisbyLaEstrella" />
+    <drawable name="frisbySabaneta" />
+</resources>
